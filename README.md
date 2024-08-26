@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
-<img align="right" width = "400" src="https://media.licdn.com/dms/image/v2/D4E03AQE2ZQmb1ZwHfQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702843195970?e=1730332800&v=beta&t=fNK6NpY1AZSajnGUJPtd2LYm6kV2FrIr4z9OrmDB9v0" alt="my-image">
+<img align="right" width = "400" src="https://media.licdn.com/dms/image/v2/D4E03AQE2ZQmb1ZwHfQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702843195970?e=1730332800&v=beta&t=fNK6NpY1AZSajnGUJPtd2LYm6kV2FrIr4z9OrmDB9v0" border-radius="50%" alt="my-image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outofamine&label=Profile%20views&color=0e75b6&style=flat" alt="outofamine" /> </p>
 
