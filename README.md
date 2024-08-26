@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
-<img style="border-radius: 10px;" align="right" width = "400" src="[https://i.postimg.cc/m2pGyYrP/amine.png](https://www.imghippo.com/i/0YXPy1724671644.png)" border-radius="50%" alt="my-image">
+<img style="border-radius: 10px;" align="right" width = "400" src="amine.png" border-radius="50%" alt="my-image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outofamine&label=Profile%20views&color=0e75b6&style=flat" alt="outofamine" /> </p>
 
