@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=outofamine&label=Profile%20views&color=0e75b6&style=flat"
         alt="outofamine" />
 </p>
-<img style="border-radius: 10px;" align="right" width="800" src="web_developer.gif" border-radius="50%"
+<img  align="right" width="400" src="web_developer.gif"
     alt="my-image">
 
 <p align="left">
