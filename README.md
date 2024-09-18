@@ -6,8 +6,7 @@
         src="https://komarev.com/ghpvc/?username=outofamine&label=Profile%20views&color=0e75b6&style=flat"
         alt="outofamine" />
 </p>
-<img  align="right" width="400" src="web_developer.gif"
-    alt="my-image">
+<img  align="right" width="400" src="web_developer.jpg"  alt="my-image">
 
 <p align="left">
     <a href="https://twitter.com/" target="blank">
