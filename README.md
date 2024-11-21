@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi,%20I'm%20Amine&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20crafting%20digital%20experiences&descAlignY=51&descAlign=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi,%20I'm%20Amine&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
@@ -18,8 +18,6 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
   About Me
 </h2>
-
-<img align="right" width="400" src="web_developer.jpg" alt="web developer illustration" style="border-radius: 10px;">
 
 - 🔭 I'm currently working on [Mobiletic](https://mobiletic.com/)
 - 🌱 I'm currently learning **Angular CLI**
@@ -82,9 +80,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=outofamine&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=outofamine&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outofamine&layout=compact&theme=tokyonight&border_radius=20" alt="Top Languages" />
