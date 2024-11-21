@@ -6,9 +6,6 @@
 <!-- Introduction -->
 # 👋 Hi there, I'm Amine
 > 💻 Full Stack Web Developer from Morocco | 🚀 Tech Enthusiast | 🌱 Angular CLI Explorer
-
-<img align="right" width="400" src="web_developer.jpg" alt="web developer illustration" style="border-radius: 10px;">
-
 <!-- About Me Section -->
 ## About Me
 - 🔭 I'm currently working on [Mobiletic](https://mobiletic.com/)
