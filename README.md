@@ -69,18 +69,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outofamine&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=outofamine&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outofamine&layout=compact&theme=tokyonight&border_radius=20" alt="Top Languages" />
-</p>
 
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
@@ -105,10 +96,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B5FF7&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+visiting!+✨" alt="Typing SVG" />
-  </a>
 </div>
