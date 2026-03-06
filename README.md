@@ -1,18 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,60:2d1b69,100:0f0c29&height=280&section=header&text=Amine%20El%20Jerrary&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=24&descAlignY=58&descAlign=50&descColor=c084fc&stroke=a78bfa&strokeWidth=2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,60:2d1b69,100:0f0c29&height=280&section=header&text=Amine%20El%20Jerrary&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=24&descAlignY=58&descAlign=50&descColor=c084fc" />
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&lines=⚡+Full+Stack+Web+Developer;🔷+Angular+%7C+React+%7C+Laravel+Architect;🚀+Building+Scalable%2C+Modern+Web+Apps;🌍+Morocco+%7C+Open+to+Remote+%26+Freelance;💡+Clean+Code+%7C+DRY+%7C+SOLID+Principles" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Full+Stack+Web+Developer;%F0%9F%94%B7+Angular+%7C+React+%7C+Laravel+Architect;%F0%9F%9A%80+Building+Scalable%2C+Modern+Web+Apps;%F0%9F%8C%8D+Morocco+%7C+Open+to+Remote+%26+Freelance;%F0%9F%92%A1+Clean+Code+%7C+DRY+%7C+SOLID+Principles" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-outofamine.github.io-a78bfa?style=for-the-badge&labelColor=1a0533&color=6d28d9)](https://outofamine.github.io/jerrary-amine)
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-a78bfa?style=for-the-badge&labelColor=1a0533&color=6d28d9)](https://outofamine.github.io/jerrary-amine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/mohamed-amine-el-jerrary)
 [![Email](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jerrary.contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)](https://github.com/outofamine)
@@ -23,7 +21,7 @@
 
 ---
 
-## 🚀 &nbsp;About Me
+## 🚀 About Me
 
 ```typescript
 const amine: Developer = {
@@ -37,11 +35,10 @@ const amine: Developer = {
   devOps:      ["Docker", "CI/CD", "Git", "Linux", "RabbitMQ"],
   expertise:   ["REST APIs", "Microservices", "Clean Architecture"],
   learning:    ["Advanced Angular Architecture", "Cloud", "Kubernetes"],
-  hobbies:     ["Open Source", "UI/UX Design", "Problem Solving"],
   openTo:      "Full Stack Collaborations & Freelance Projects 🤝",
 
   greet(): string {
-    return "Thanks for visiting my profile! Let's build something amazing.";
+    return "Thanks for visiting! Let's build something amazing.";
   }
 };
 ```
@@ -50,17 +47,17 @@ const amine: Developer = {
 
 ---
 
-## 🌐 &nbsp;Portfolio Showcase
+## 🌐 Portfolio Showcase
 
 <div align="center">
 
-<a href="https://outofamine.github.io/jerrary-amine">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:2d1b69,100:1a0533&height=120&text=🚀%20outofamine.github.io/jerrary-amine&fontSize=28&fontColor=c084fc&animation=fadeIn&fontAlignY=55&desc=Full+Stack+Portfolio+%7C+Projects+%7C+Experience+%7C+Contact&descSize=14&descAlignY=78&descColor=a78bfa" width="90%"/>
-</a>
+### ✨ Check out my work
 
-<br/><br/>
+<br/>
 
-[![🌐 Visit My Portfolio](https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-%20outofamine.github.io%2Fjerrary--amine-ffffff?style=for-the-badge&labelColor=6d28d9&color=4c1d95&logo=vercel&logoColor=white)](https://outofamine.github.io/jerrary-amine)
+[![🌐 VISIT MY PORTFOLIO](https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-outofamine.github.io%2Fjerrary--amine-c084fc?style=for-the-badge&labelColor=2d1b69&color=4c1d95)](https://outofamine.github.io/jerrary-amine)
+
+> 🚀 Projects · Experience · Skills · Contact — all in one place
 
 </div>
 
@@ -68,7 +65,7 @@ const amine: Developer = {
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
@@ -96,7 +93,6 @@ const amine: Developer = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
@@ -120,7 +116,7 @@ const amine: Developer = {
 
 ---
 
-## 💻 &nbsp;Code Snippets
+## 💻 Code Snippets
 
 <details>
 <summary><b>🔴 Laravel — Clean API Resource Controller</b></summary>
@@ -131,11 +127,9 @@ const amine: Developer = {
 
 namespace App\Http\Controllers\Api;
 
-use App\Http\Controllers\Controller;
 use App\Http\Resources\ProjectResource;
 use App\Models\Project;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
 
 class ProjectController extends Controller
 {
@@ -182,7 +176,6 @@ import { FormControl } from '@angular/forms';
 })
 export class ProjectsComponent implements OnInit {
   private projectService = inject(ProjectService);
-
   searchControl = new FormControl('');
   projects$ = this.projectService.getAll();
 
@@ -246,43 +239,43 @@ export default useFetch;
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outofamine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outofamine&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outofamine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outofamine&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=outofamine&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=outofamine&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=outofamine&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c084fc&area=true&area_color=2d1b69&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=outofamine&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c084fc&area=true&area_color=2d1b69&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=outofamine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=outofamine&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 
 ---
 
-## 🚀 &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Tech | Description | Link |
-|---------|------|-------------|------|
-| 🛒 **E-Commerce Platform** | Laravel · Angular · MySQL · Docker | Full-featured store with real-time inventory, payments, admin dashboard | [![Repo](https://img.shields.io/badge/View-a78bfa?style=flat-square&logo=github)](https://github.com/outofamine) |
-| 📊 **Analytics Dashboard** | React · TypeScript · Node.js · PostgreSQL | Real-time data visualization with interactive charts & role-based access | [![Repo](https://img.shields.io/badge/View-a78bfa?style=flat-square&logo=github)](https://github.com/outofamine) |
-| 🐇 **Microservices API** | Laravel · RabbitMQ · Docker · CI/CD | Event-driven architecture with message queues and service orchestration | [![Repo](https://img.shields.io/badge/View-a78bfa?style=flat-square&logo=github)](https://github.com/outofamine) |
-| 🎨 **Portfolio V2** | React · TailwindCSS · Vite | Modern developer portfolio with animations and project showcases | [![Live](https://img.shields.io/badge/Live-6d28d9?style=flat-square&logo=vercel)](https://outofamine.github.io/jerrary-amine) |
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🛒 **E-Commerce Platform** | Laravel · Angular · MySQL · Docker | Full-featured store with real-time inventory, payments & admin dashboard |
+| 📊 **Analytics Dashboard** | React · TypeScript · Node.js · PostgreSQL | Real-time data visualization with interactive charts & RBAC |
+| 🐇 **Microservices API** | Laravel · RabbitMQ · Docker · CI/CD | Event-driven architecture with message queues & service orchestration |
+| 🎨 **Portfolio V2** | React · TailwindCSS · Vite | Modern developer portfolio with animations & project showcases |
 
 </div>
 
@@ -290,46 +283,25 @@ export default useFetch;
 
 ---
 
-## 🤝 &nbsp;Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mohamed-amine-el-jerrary" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Amine_El_Jerrary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
-</a>
-
-<a href="https://instagram.com/amiine.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@amiine.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a"/>
-</a>
-
-<a href="mailto:jerrary.contact@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jerrary.contact@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
-</a>
-
-<a href="https://outofamine.github.io/jerrary-amine" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-outofamine.github.io-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/>
-</a>
-
-<a href="https://github.com/outofamine" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-outofamine-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Amine_El_Jerrary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/mohamed-amine-el-jerrary)
+[![Instagram](https://img.shields.io/badge/Instagram-@amiine.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://instagram.com/amiine.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-jerrary.contact@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jerrary.contact@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-outofamine.github.io-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a)](https://outofamine.github.io/jerrary-amine)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=outofamine&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=outofamine&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=700&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+—+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+—+John+Johnson;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+—+Robert+Martin" width="80%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:1a0533&height=150&section=footer&fontColor=c084fc&fontSize=18&text=Thanks%20for%20visiting!%20⭐%20Star%20something%20if%20you%20like%20it&fontAlignY=65&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:1a0533&height=150&section=footer&fontColor=c084fc&fontSize=18&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20something%20if%20you%20like%20it&fontAlignY=65&animation=twinkling"/>
 </div>
