@@ -79,14 +79,11 @@
 </h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-amine-el-jerrary">
+  <a target="_blank" href="https://linkedin.com/in/mohamed-amine-el-jerrary">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/fureemine">
+  <a target="_blank" href="https://instagram.com/amiine.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@ajidevelopper">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
