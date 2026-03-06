@@ -256,10 +256,24 @@ export default useFetch;
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=outofamine&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-a78bfa?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0533)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-6d28d9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1a0533)
+![Projects](https://img.shields.io/badge/Projects-20%2B-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533)
+![Stack](https://img.shields.io/badge/Full%20Stack-Angular%20%7C%20React%20%7C%20Laravel-4c1d95?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=1a0533)
+
+</div>
+
+<div align="center">
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-a78bfa?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-SOLID%20%7C%20DRY%20%7C%20KISS-6d28d9?style=flat-square&logo=sonarqube&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Containerized-Docker%20%7C%20CI%2FCD-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
+![Remote](https://img.shields.io/badge/Available-Remote%20%26%20Freelance-22c55e?style=flat-square&logo=googlemeet&logoColor=white&labelColor=0d1117)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
